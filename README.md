@@ -1,2 +1,2 @@
 # release-note-automation
-Test the creation of release note
+Demonstrates how a release note can be created based on tag push event.
